@@ -1,0 +1,3 @@
+class Clide::Input
+
+end
